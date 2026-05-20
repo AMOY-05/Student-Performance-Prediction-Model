@@ -1,1 +1,5 @@
-gunicorn students-performance-prediction-model.wsgi
+gunicorn
+flask
+scikit-learn
+pandas
+numpy
